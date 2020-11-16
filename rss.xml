@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+      <rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+        <channel>
+             <title>Site de pedidos</title>
+             <atom:link href="http://www.jotaja.com.br/rss.xml" rel="self" type="application/rss+xml" />
+             <description>VOCÊ VAI TER SUA PRÓPRIA PLATAFORMA DE PEDIDOS. Não perca mais comissões para aplicativos. O Jotajá é um site de pedidos, no site de pedidos Jotajá voce pode criar cardápio, gerenciar pedidos e usar nosso software para restaurante</description>
+             <lastBuildDate>Mon, 16 Nov 2020</lastBuildDate> 
+             <link>http://www.jotaja.com.br/</link>
+             <language>pt-br</language>
+            <item>
+                <title>Blog Jotajá</title>
+                <link>https://blog.jotaja.com.br/</link>
+                <guid>https://blog.jotaja.com.br/</guid>
+                <pubDate>Mon, 16 Nov 2020</pubDate>
+                <description>Blog do Jotajá - site de pedidos</description>
+            </item>
+            </channel>
+</rss> 
