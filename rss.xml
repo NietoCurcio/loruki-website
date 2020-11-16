@@ -10,14 +10,14 @@
              <title>Site de pedidos</title>
              <atom:link href="https://lorukifelipecurcio.netlify.app/rss.xml" rel="self" type="application/rss+xml" />
              <description>VOCÊ VAI TER SUA PRÓPRIA PLATAFORMA DE PEDIDOS. Não perca mais comissões para aplicativos. O Jotajá é um site de pedidos, no site de pedidos Jotajá voce pode criar cardápio, gerenciar pedidos e usar nosso software para restaurante</description>
-             <lastBuildDate>Mon, 16 Nov 2020 15:12:00</lastBuildDate> 
+             <lastBuildDate>Mon, 16 Nov 2020 15:15:47 +0000</lastBuildDate> 
              <link>http://www.jotaja.com.br/</link>
              <language>pt-br</language>
             <item>
                 <title>Blog Jotajá</title>
                 <link>https://blog.jotaja.com.br/</link>
                 <guid>https://blog.jotaja.com.br/</guid>
-                <pubDate>Mon, 16 Nov 2020</pubDate>
+                <pubDate>Mon, 16 Nov 2020 15:15:47 +0000</pubDate>
                 <description>Blog do Jotajá - site de pedidos</description>
             </item>
             </channel>
