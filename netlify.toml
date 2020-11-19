@@ -1,5 +1,5 @@
 [[headers]]
     for = "/*"
     [headers.values]
-    cache-control = css
+    cache-control = /css
     max-age=31536000
